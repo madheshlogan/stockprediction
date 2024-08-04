@@ -50,6 +50,16 @@ The script will output:
 1. The Mean Squared Error (MSE) of the model's predictions.
 2. Visualization of the test and train loss.
 3. Profitability analysis based on the predicted stock prices (binary classification).
+4. regression loss curve:
+
+   
+   ![image](https://github.com/user-attachments/assets/c70f850b-103e-4014-9302-fecf2ba3076f)
+6. classification loss curve:
+
+
+   ![image](https://github.com/user-attachments/assets/ab784295-f2ea-43ec-bd05-9d660217fb9b)
+
+
 
 ## Contributing
 
